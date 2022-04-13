@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "AHw2Dzgoa",
+      "email": "egoing34@hanmail.net",
+      "password": "$2b$10$JoTZmvpPtMlTA6ktovdoZOwZwJrC2ApsSSGIXOrAJn059RHkkuRoC",
+      "nickname": "장혜진짱",
+      "accesstoken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqd3RfZW1haWwiOiJlZ29pbmczNEBoYW5tYWlsLm5ldCIsImp3dF9wd2QiOiIwMDAwIiwiaWF0IjoxNjQ5ODUzNzg3LCJleHAiOjE2NDk4NTczODcsImlzcyI6IkpvbmdpbiIsInN1YiI6ImVnb2luZzM0QGhhbm1haWwubmV0J3MgVG9rZW4ifQ.BkVLT5gT7sYyzxjc6LR-49momRNhfE3VzgPmRze0Pgg"
+    },
+    
+    
+    {
+      "id": "RGlYJfBAT",
+      "email": "jinny123@gmail.com",
+      "password": "$2b$10$iboXOFdaycEZppxDZmbUC.qJOdzEusQud/SMLvm9e7VLzFLUPNT5S",
+      "nickname": "손종인짱 ",
+      "accesstoken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqd3RfZW1haWwiOiJqaW5ueTEyM0BnbWFpbC5jb20iLCJqd3RfcHdkIjoiMTExMSIsImlhdCI6MTY0OTg2OTQwNSwiZXhwIjoxNjQ5ODczMDA1LCJpc3MiOiJKb25naW4iLCJzdWIiOiJqaW5ueTEyM0BnbWFpbC5jb20ncyBUb2tlbiJ9.JO-jQItnAgEua-mG4aAaNhGU0pFXdnmJt2QrnxzUHpc"
+    }
+   
+  ]
+}
